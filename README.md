@@ -3,7 +3,7 @@
 **NIM  :** F1D02510008
 **Nama :** HARI FITRATULLAH
 
-Aplikasi sederhana untuk mengisi biodata mahasiswa menggunakan Java Swing.
+Aplikasi sederhana untuk mengisi biodata mahasiswa.
 
 ## 5 Komponen Utama GUI yang Digunakan
 
